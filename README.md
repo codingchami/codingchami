@@ -68,13 +68,17 @@ const chamith = {
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30" /> GitHub Stats
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codingchami&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stats"/>
-</p>
+</div>
 
-<p align="center">
+<br/>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingchami&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117" alt="Top Languages"/>
-</p>
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=codingchami&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
@@ -102,10 +106,6 @@ const chamith = {
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake Animation"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
